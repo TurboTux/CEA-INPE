@@ -24,7 +24,7 @@ Fun fact: FORTRAN is the oldest commercial programming language. It has 11 revis
 
 Back to today
 ---
-The current version of CEA uses a Java applet to create a graphical interface to use the FORTRAN code (which is a batch-program style) to run, but it doesn't have has no restrictions and field validations, and with that need was born CEA-INPE.
+The current version of CEA uses a Java applet to create a graphical interface to use the FORTRAN code (which is a batch-program style) to run, but it has no restrictions and field validations, and with that need was born CEA-INPE.
 
 CEA-INPE is a brend-new graphical user interface to use use CEA-NASA's core program.
 
