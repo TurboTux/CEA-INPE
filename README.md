@@ -29,7 +29,7 @@ The current version of CEA uses a Java applet to create a graphical interface to
 CEA-INPE is a brand-new graphical user interface to use with CEA-NASA's core program.
 
 Modest minimum system requirements are:
-- Windows XP-compatible operating system
+- Windows XP (SP3) compatible operating system (must have Windows Installer 4.5 installed to open MSI files, otherwise it will not work!)
 - .Net Framework 3.5 installed
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
