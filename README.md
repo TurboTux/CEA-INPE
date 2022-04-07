@@ -26,7 +26,7 @@ Back to today
 ---
 The current version of CEA uses a Java applet to create a graphical interface to use the FORTRAN code (which is a batch-program style) to run, but it has no restrictions and field validations, and with that need was born CEA-INPE.
 
-CEA-INPE is a brend-new graphical user interface to use use CEA-NASA's core program.
+CEA-INPE is a brand-new graphical user interface to use use CEA-NASA's core program.
 
 Modest minimum system requirements are:
 - Windows XP-compatible operating system
