@@ -42,32 +42,18 @@ Happy calculations!
 Version History
 ---
 
-0.1 to 1.0 - making (and remaking) the user interface
-
-1.1 to 1.2 - creating all field constraints to avoid any misplaced comma
-
-1.3 - created first-ever installer
-
-1.4 - created first-ever help file
-
-1.5 - first public version
-
-1.6 - help file adjusted
-
-1.65 - forgot to update screenshots (damn!)
-
-1.8 - typo revision
-
-1.9 - second public version
-
-1.99 - damn misplaced letters - checked all interface again!
-
-2.0 - bug hunting
-
-2.01 to 2.02 - bug smashing
-
-2.03 to 2.13 - redesigned user-reactant window, with new constraints
-
-2.14 - first REALLY public version (forget all the past! Version history is merely informative)     <- we are here!
-
-2.15 - I hope it doesn't exist anytime soon...
+- 0.1 to 1.0 - making (and remaking) the user interface
+- 1.1 to 1.2 - creating all field constraints to avoid any misplaced comma
+- 1.3 - created first-ever installer
+- 1.4 - created first-ever help file
+- 1.5 - first public version
+- 1.6 - help file adjusted
+- 1.65 - forgot to update screenshots (damn!)
+- 1.8 - typo revision
+- 1.9 - second public version
+- 1.99 - damn misplaced letters - checked all interface again!
+- 2.0 - bug hunting
+- 2.01 to 2.02 - bug smashing
+- 2.03 to 2.13 - redesigned user-reactant window, with new constraints
+- 2.14 - first REALLY public version (forget all the past! Version history is merely informative)     <- we are here!
+- 2.15 - I hope it doesn't exist anytime soon...
