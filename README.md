@@ -17,6 +17,7 @@ To make a long story short, many calculations were incorporated into the program
 
 Fun fact: FORTRAN is the oldest commercial programming language. It has 11 revisions and improvements, and the lastest one was launched in 2018!!!
 
+---
 ## Back to today
 The current version of CEA uses a Java applet to create a graphical interface to use the FORTRAN code (which is a batch-program style) to run, but it has no restrictions and field validations, and with that need was born CEA-INPE.
 
@@ -29,7 +30,7 @@ Modest minimum system requirements are:
 - 12MB free RAM (even the first iPhone has it)
 
 ***
-- UPDATE! With proud that I announce CEA-INPE IS compatible with Windows-that-is-not-Windows OS: ***ReactOS***. It's a unimaginable programming breakthrough for me!
+- UPDATE! With proud that I announce CEA-INPE **IS** compatible with Windows-that-is-not-Windows OS: ***ReactOS***. It's a unimaginable programming breakthrough for me!
 ![ReactOS](https://user-images.githubusercontent.com/49453668/163242165-50209854-6bf5-4633-ac07-032cbdd17434.png)
 !
 
