@@ -40,7 +40,6 @@ Happy calculations!
 
 ***
 ### Version History
----
 
 - 0.1 to 1.0 - making (and remaking) the user interface
 - 1.1 to 1.2 - creating all field constraints to avoid any misplaced comma
