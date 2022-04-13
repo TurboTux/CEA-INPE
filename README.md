@@ -9,8 +9,10 @@ The program is written in ANSI standard FORTRAN by Bonnie J. McBride and Sanford
 ## Some history now (out of curiosity):
 Original FORTRAN (or FORmula TRANslator) is a language created in 1954(!!!), and released commercially in 1957. The start of the CEA program took place when not even NASA was called NASA.
 ...
+
 To make a long story short, many calculations were incorporated into the program, which was renamed CEA in 1994 (and remains to this day).
 ...
+
 Fun fact: FORTRAN is the oldest commercial programming language. It has 11 revisions and improvements, and the lastest one was launched in 2018!!!
 
 ## Back to today
