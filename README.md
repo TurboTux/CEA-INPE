@@ -32,7 +32,7 @@ Modest minimum system requirements are:
 ***
 - {UPDATE] I am proud to announce that CEA-INPE **IS** compatible even with the non-Windows operating system: ***ReactOS***. It's an unimaginable programming breakthrough for me!
 ![ReactOS](https://user-images.githubusercontent.com/49453668/163242165-50209854-6bf5-4633-ac07-032cbdd17434.png)
-!
+
 
 Just install the package downloaded (virus-free! If your antivirus says it is lying.) and run with the shortcut created in Start Menu, or on Desktop.
 Happy calculations!
