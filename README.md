@@ -1,14 +1,14 @@
 # CEA-INPE
 CEA stands for "Chemical Equilibrium with Applications" and NASA means (for those who don't already know) "National Aeronautics and Space Administration".
 ***
-According to program's home page (original text):
+## According to program's home page (original text):
 ---
 "The NASA Computer program CEA (Chemical Equilibrium with Applications) calculates chemical equilibrium compositions and properties of complex mixtures. Applications include assigned thermodynamic states, theoretical rocket performance, Chapman-Jouguet detonations, and shock-tube parameters for incident and reflected shocks.
 ...
 The program is written in ANSI standard FORTRAN by Bonnie J. McBride and Sanford Gordon..."
 
 ***
-Some history now (out of curiosity):
+## Some history now (out of curiosity):
 ---
 Original FORTRAN (or FORmula TRANslator) is a language created in 1954(!!!), and released commercially in 1957. The start of the CEA program took place when not even NASA was called NASA.
 
@@ -22,14 +22,14 @@ Fun fact: FORTRAN is the oldest commercial programming language. It has 11 revis
 
 
 ***
-Back to today
+## Back to today
 ---
 The current version of CEA uses a Java applet to create a graphical interface to use the FORTRAN code (which is a batch-program style) to run, but it has no restrictions and field validations, and with that need was born CEA-INPE.
 
 CEA-INPE is a brand-new graphical user interface to use with CEA-NASA's core program.
 
 Modest minimum system requirements are:
-- Windows XP (SP3) compatible operating system (must have Windows Installer 4.5 installed to open MSI files, otherwise it will not work!)
+- Windows XP (SP3) compatible operating system - in this case mail me at ricardo.andrade@inpe.br for me to provide another way to install, since MSI package in Windows XP is big trouble.
 - .Net Framework 3.5 installed
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
@@ -39,7 +39,7 @@ Happy calculations!
 
 
 ***
-Version History
+### Version History
 ---
 
 - 0.1 to 1.0 - making (and remaking) the user interface
