@@ -2,7 +2,6 @@
 CEA stands for "Chemical Equilibrium with Applications" and NASA means (for those who don't already know) "National Aeronautics and Space Administration".
 ***
 ## According to program's home page (original text):
----
 "The NASA Computer program CEA (Chemical Equilibrium with Applications) calculates chemical equilibrium compositions and properties of complex mixtures. Applications include assigned thermodynamic states, theoretical rocket performance, Chapman-Jouguet detonations, and shock-tube parameters for incident and reflected shocks.
 ...
 The program is written in ANSI standard FORTRAN by Bonnie J. McBride and Sanford Gordon..."
