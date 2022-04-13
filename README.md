@@ -20,15 +20,13 @@ To make a long story short, many calculations were incorporated into the program
 Fun fact: FORTRAN is the oldest commercial programming language. It has 11 revisions and improvements, and the lastest one was launched in 2018!!!
 
 
-***
 ## Back to today
----
 The current version of CEA uses a Java applet to create a graphical interface to use the FORTRAN code (which is a batch-program style) to run, but it has no restrictions and field validations, and with that need was born CEA-INPE.
 
-CEA-INPE is a brand-new graphical user interface to use with CEA-NASA's core program.
+CEA-INPE is a *brand-new* graphical user interface to use with CEA-NASA's core program.
 
 Modest minimum system requirements are:
-- Windows XP (SP3) compatible operating system - in this case mail me at ricardo.andrade@inpe.br for me to provide another way to install, since MSI package in Windows XP is big trouble.
+- Windows XP (SP3) compatible operating system - in this case mail me at ***ricardo.andrade@inpe.br*** for me to provide another way to install, since MSI package in Windows XP is big trouble.
 - .Net Framework 3.5 installed
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
