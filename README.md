@@ -34,6 +34,11 @@ Modest minimum system requirements are:
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
 
+***
+- UPDATE! With proud that I announce CEA-INPE IS compatible with Windows-that-is-not-Windows OS: ***ReactOS***. It's a unimaginable programming breakthrough for me!
+![ReactOS](https://user-images.githubusercontent.com/49453668/163242165-50209854-6bf5-4633-ac07-032cbdd17434.png)
+!
+
 Just install the package downloaded (virus-free! If your antivirus says it is lying.) and run with the shortcut created in Start Menu, or on Desktop.
 Happy calculations!
 
