@@ -1,5 +1,5 @@
 # CEA-INPE
-CEA stands for "**C**hemical **E**quilibrium with **A**pplications" and NASA means (for those who don't already know) "National Aeronautics and Space Administration".
+CEA stands for "**C**hemical **E**quilibrium with **A**pplications" and NASA means (for those who don't already know) "**N**ational **A**eronautics and **S**pace **A**dministration".
 ## According to program's home page (*original text*):
 "The NASA Computer program CEA calculates chemical equilibrium compositions and properties of complex mixtures. Applications include assigned thermodynamic states, theoretical rocket performance, Chapman-Jouguet detonations, and shock-tube parameters for incident and reflected shocks.
 ...
@@ -25,7 +25,7 @@ CEA-INPE is a *brand-new* graphical user interface to use with CEA-NASA's core p
 
 Modest minimum system requirements are:
 - Windows XP (SP3) compatible operating system - in this case mail me at ***ricardo.andrade@inpe.br*** for me to provide another way to install, since MSI package in Windows XP is big trouble.
-- .Net Framework 3.5 installed
+- .Net Framework 3.5 installed (4.0 is good too)
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
 
