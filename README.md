@@ -29,6 +29,9 @@ Modest minimum system requirements are:
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
 
+# ATTENTION
+Because the core program still uses the Fortran code, decimal point used **must** be ".". A work-around is being done to avoid mistyping.
+
 ***
 - {UPDATE] I am proud to announce that CEA-INPE **IS** compatible even with the non-Windows operating system: ***ReactOS***. It's an unimaginable programming breakthrough for me!
 ![ReactOS](https://user-images.githubusercontent.com/49453668/163242165-50209854-6bf5-4633-ac07-032cbdd17434.png)
