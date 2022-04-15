@@ -56,4 +56,5 @@ Happy calculations!
 - 2.03 to 2.13 - redesigned user-reactant window, with new constraints
 - 2.14 - first REALLY public version (forget all the past! Version history is merely informative)          <- we are here!
     (*The Three Stooges (Only, Omit and Insert tabs) still not working properly. Sorry.*)
-- 2.15 - I hope it doesn't exist anytime soon...
+- 2.15 - treats "," like "." to make calculations right
+- 2.16 - I hope it doesn't exist anytime soon...
