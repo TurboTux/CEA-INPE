@@ -30,6 +30,8 @@ Modest minimum system requirements are:
 - 12MB free RAM (even the first iPhone has it)
 
 ***
+![XP](https://user-images.githubusercontent.com/49453668/164008485-a6e0c33c-8dbf-43d6-9e5e-0e306838258e.jpg)
+
 - {UPDATE] I am proud to announce that CEA-INPE **IS** compatible even with the non-Windows operating system: ***ReactOS***. It's an unimaginable programming breakthrough for me!
 ![ReactOS](https://user-images.githubusercontent.com/49453668/163242165-50209854-6bf5-4633-ac07-032cbdd17434.png)
 
