@@ -25,7 +25,7 @@ CEA-INPE is a *brand-new* graphical user interface to use with CEA-NASA's core p
 
 Modest minimum system requirements are:
 - Windows XP (SP3) compatible operating system - in this case mail me at ***ricardo.andrade@inpe.br*** for me to provide another way to install, since MSI package in Windows XP is big trouble.
-- .Net Framework 4 <-> 4.8 (just to plot charts, the new option. ![Thanks to Microsoft](https://c.tenor.com/dmUPx0eFh4AAAAAC/fuck-microsoft.gif), the chart control only exists in .Net 4).
+- .Net Framework 4 <-> 4.8 (just to plot charts, the new option. <a href="https://c.tenor.com/dmUPx0eFh4AAAAAC/fuck-microsoft.gif"Thanks to Microsoft</a>, the chart control only exists in .Net 4).
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
 
