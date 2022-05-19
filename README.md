@@ -57,7 +57,7 @@ Happy calculations!
 - 2.01 to 2.02 - bug smashing
 - 2.03 to 2.13 - redesigned user-reactant window, with new constraints
 - 2.14 - treats "," like "." to make calculations right
-- 2.15 - first REALLY public version (forget all the past! Version history is merely informative)          <- we are here!
+- 2.15 - first REALLY public version (forget all the past! Version history is merely informative)
     (*The Three Stooges (Only, Omit and Insert tabs) still not working properly. Sorry.*)
 - 2.16 - I hope it doesn't exist anytime soon...
 - 2.4 - jumped minor versions because a new milestone achieved! New window plot the items selected in "Other -> Output" tab. And it has a new splash screen too!
