@@ -25,14 +25,14 @@ CEA-INPE is a *brand-new* graphical user interface to use with CEA-NASA's core p
 
 Modest minimum system requirements are:
 - Windows XP (SP3) compatible operating system - in this case mail me at ***ricardo.andrade@inpe.br*** for me to provide another way to install, since MSI package in Windows XP is big trouble.
-- .Net Framework 3.5 installed (4.0 is good too)
+- .Net Framework 4 <-> 4.8 (just to plot charts, the new option. ![Thanks to Microsoft](https://c.tenor.com/dmUPx0eFh4AAAAAC/fuck-microsoft.gif), the chart control only exists in .Net 4).
 - 4MB disk free space (less than your high-res photo on desktop wallpaper)
 - 12MB free RAM (even the first iPhone has it)
 
 ***
 ![XP](https://user-images.githubusercontent.com/49453668/164008485-a6e0c33c-8dbf-43d6-9e5e-0e306838258e.jpg)
 
-- {UPDATE] I am proud to announce that CEA-INPE **IS** compatible even with the non-Windows operating system: ***ReactOS***. It's an unimaginable programming breakthrough for me!
+- [UPDATE] I am proud to announce that CEA-INPE **IS** compatible even with the non-Windows operating system: ***ReactOS***. It's an unimaginable programming breakthrough for me!
 ![ReactOS](https://user-images.githubusercontent.com/49453668/163242165-50209854-6bf5-4633-ac07-032cbdd17434.png)
 
 
@@ -60,3 +60,4 @@ Happy calculations!
 - 2.15 - first REALLY public version (forget all the past! Version history is merely informative)          <- we are here!
     (*The Three Stooges (Only, Omit and Insert tabs) still not working properly. Sorry.*)
 - 2.16 - I hope it doesn't exist anytime soon...
+- 2.4 - jumped minor versions because a new milestone achieved! New window plot the items selected in "Other -> Output" tab. And it has a new splash screen too!
