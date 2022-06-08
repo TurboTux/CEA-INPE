@@ -60,4 +60,5 @@ Happy calculations!
 - 2.15 - first REALLY public version (forget all the past! Version history is merely informative)
     (*The Three Stooges (Only, Omit and Insert tabs) still not working properly. Sorry.*)
 - 2.16 - I hope it doesn't exist anytime soon...
-- 2.4 - jumped minor versions because a new milestone achieved! New window plot the items selected in "Other -> Output" tab. And it has a new splash screen too!
+- 2.4 - jumped minor versions because a new milestone achieved! New window plot the items selected in "Other -> Output" tab. And it has a **new** splash screen too!
+- 2.4.5 - fixed another bug that caused splash screen freeze on top of main window. Almost lost the plot window code during bug hunting thanks to mess by Visual Studio. Lost 2 entire weeks trying to find and crush the bug and recover plot funcionality. Now, back to improvements!
